@@ -8,11 +8,13 @@ public class DemoRaise {
 
     public static void main (String[] args)
     {
-        predictRaise(salary);
+
         double salary;
+
         Scanner input = new Scanner(System.in);
         System.out.println("Enter your current salary");
         salary = input.nextDouble();
+        predictRaise(salary);
 
     }
     public static void predictRaise(double salary)
@@ -22,6 +24,6 @@ public class DemoRaise {
         newSalary = salary * RAISE_RATE;
 
         System.out.println("Current salary: " + salary + " \nAfter raise: "+ newSalary);
-        
+
     }
 }
