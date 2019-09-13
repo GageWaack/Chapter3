@@ -11,6 +11,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DockManager">
+    <window id="2">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file leaf-file-name="PoundsConversion.java" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/Assignments/PoundsConversion.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="51">
+                    <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
     <window id="1">
       <content type="file-editors">
         <state>
@@ -31,11 +48,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PoundsConversion.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Assignments/PoundsConversion.java">
+      <file leaf-file-name="Debugging1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Debugging/Debugging1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="153">
+              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -65,6 +82,7 @@
         <option value="$PROJECT_DIR$/src/game_zone/PoundsConversion.java" />
         <option value="$PROJECT_DIR$/src/examples/LBSexample.java" />
         <option value="$PROJECT_DIR$/src/Assignments/PoundsConversion.java" />
+        <option value="$PROJECT_DIR$/src/Debugging/Debugging1.java" />
       </list>
     </option>
   </component>
@@ -104,6 +122,12 @@
               <item name="Chapter 3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Debugging" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Chapter 3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="examples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -131,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LBSexample">
+  <component name="RunManager" selected="Application.Debugging1">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="examples.Calculator" />
       <module name="Chapter3" />
@@ -139,6 +163,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Debugging1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Debugging.Debugging1" />
+      <module name="Chapter3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Debugging.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +188,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="NumbersDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignments.NumbersDemo2" />
-      <module name="Chapter3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="PoundsConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assignments.PoundsConversion" />
@@ -217,19 +247,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.NumbersDemo2" />
       <item itemvalue="Application.percentages" />
       <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.PoundsConversion" />
       <item itemvalue="Application.LBSexample" />
+      <item itemvalue="Application.Debugging1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Debugging1" />
         <item itemvalue="Application.LBSexample" />
         <item itemvalue="Application.PoundsConversion" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.percentages" />
-        <item itemvalue="Application.NumbersDemo2" />
       </list>
     </recent_temporary>
   </component>
@@ -441,6 +471,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Debugging/Debugging1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
         </state>
       </provider>
     </entry>
