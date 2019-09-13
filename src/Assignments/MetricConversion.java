@@ -1,3 +1,5 @@
+package Assignments;
+
 import java.util.Scanner;
 public class MetricConversion {
     public static void main (String[] args) {
@@ -16,7 +18,7 @@ public class MetricConversion {
             System.out.println("Enter number of galons");
             galons = input.nextInt();
 
-            
+
         }
 
 }
